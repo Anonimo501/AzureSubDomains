@@ -7,3 +7,8 @@ El script busca subdominios especificos en azure del dominio que tu le ingreses,
 
 ## Instalacion y uso
 
+git clone https://github.com/Anonimo501/AzureSubDomains.git
+
+cd AzureSubDomains
+
+python3 AzureSubDomains.py
